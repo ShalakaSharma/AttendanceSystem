@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Automatic Attendance System</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_studentdetailslabel">Student Details</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_studentid">Student ID</string>
+    <string name="prompt_studentfirstname">First Name</string>
+    <string name="prompt_studentlastname">Last Name</string>
+    <string name="prompt_coursedetailslabel">Course Details</string>
+    <string name="prompt_courseendtime">End Time</string>
+    <string name="prompt_coursestarttime">Start Time</string>
+    <string name="prompt_courseday">Day of the Week</string>
+    <string name="prompt_courseid">Course ID</string>
+    <string name="prompt_coursename">Course Name</string>
+    <string name="action_sign_in">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
